@@ -1,3 +1,5 @@
+import java.util.Scanner;
+
 public class App {
     // 모든 클래스에 main method는 하나만 존재 가능 이유는 해당 method가 실질적인 application이기 때문
     public static void main(String[] args) throws Exception {
